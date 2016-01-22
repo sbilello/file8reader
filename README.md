@@ -23,7 +23,7 @@ You can create the jar package by typing:
 
 `mvn package` 
 
-You will find in target directory: palindrome.jar
+You will find in target directory: file8reader.jar
 
 Usage:
 
