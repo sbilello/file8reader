@@ -3,14 +3,19 @@
 Take as an input a text file with list of names(First Last), one on each line. These names aren’t in any order useful for you. Print out the names sorted by first name. Then print the names sorted by last name.
 
 
-Betty White
-Alexander Hamilton
-Martin Fowler
-Chris Rock
+`Betty White` 
+
+`Alexander Hamilton` 
+
+`Martin Fowler`  
+
+`Chris Rock`  
+
 
 ## Requirements ##
-   Java   1.8
-   Apache Maven
+   `Java   1.8`
+
+   `Apache Maven`
    
 ## Getting Started ##
 
